@@ -72,6 +72,6 @@
 	</dependencies>
 	
 	<build>
-		<finalName>Maven-Web-Project</finalName>
+		<finalName>Maven-Web-Projects</finalName>
 	</build>
 </project>
